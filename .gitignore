@@ -1,12 +1,11 @@
 # OSX
 #
 .DS_Store
-.idea/
-.idea
+yarn.lock
+yarn-error.log
 # node.js
 #
 node_modules/
-node_modules
 npm-debug.log
 yarn-error.log
 
@@ -37,12 +36,6 @@ build/
 .gradle
 local.properties
 *.iml
-
-# node.js
-#
-node_modules/
-npm-debug.log
-yarn-error.log
 
 # BUCK
 buck-out/

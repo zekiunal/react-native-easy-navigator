@@ -1,0 +1,39 @@
+{
+  "name": "react-native-easy-navigator",
+  "title": "React Native Easy Navigator",
+  "version": "0.0.1",
+  "description": "TODO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github_account/react-native-easy-navigator.git",
+    "baseUrl": "https://github.com/github_account/react-native-easy-navigator"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Zeki Ünal",
+    "email": "zekiunal@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "react-navigation": "4.0.10",
+    "react-native-gesture-handler": "1.5.3",
+    "react-native-reanimated": "1.4.0",
+    "react-native-screens": "2.0.0-alpha.23"
+  },
+  "peerDependencies": {
+    "react": "^16.9.0",
+    "react-native": ">=0.61.5 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5"
+  }
+}
